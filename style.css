@@ -1,0 +1,17 @@
+
+#starTower {
+    font-family: monospace;
+    /* Ensures each character has the same width */
+    white-space: pre;
+    /* Preserves whitespace */
+    text-align: center;
+    /* Centers the text */
+    font-size: 50px;
+}
+
+#starTower div {
+    font-family: monospace;
+    text-align: center;
+}
+
+/* Optional: Add more styles if needed */
