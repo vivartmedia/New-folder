@@ -6,3 +6,5 @@ For example, a tower with 3 floors looks like this:
   " *** ", 
   "*****"
 ]
+
+you will need to input a number of lines and press the button to create a colord Christmass tree shaped pyramid.
